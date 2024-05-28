@@ -26,3 +26,5 @@ Working
 - set the condition for gameover when the snake's body touches itself or the wall
 
 The function for displaying the score is created
+
+Run the code in VS Code and output in terminal
